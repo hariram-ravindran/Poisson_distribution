@@ -1,3 +1,8 @@
+```
+Developed by : HARI RAM R
+Register number : 212224240050
+Department: BTECH AIML
+```
 # Fitting Poisson  distribution
 # Aim : 
 
